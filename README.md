@@ -59,6 +59,18 @@ Take over downstream tasks like direct buyer marketing, contract closing, and va
 
 ---
 
+## 🚀 Hosting Instructions
+
+No build steps required. Just drag and drop the code into your GitHub repository and enable Pages.
+
+1. Clone or upload the files to your GitHub repo  
+2. Go to **Settings > Pages**  
+3. Choose the branch and root folder (`/`)  
+4. Save and wait a few seconds  
+5. Visit your site at the provided URL
+
+---
+
 ## 📚 License
 
 This project is open-source and available under the MIT License.
